@@ -1,0 +1,101 @@
+task_id,subject,task_type,difficulty,days_left,estimated_hours,importance,priority
+T001,Mathematics,Lab Report,4,6,4,5,Medium
+T002,Mathematics,Lab Report,2,1,5,5,High
+T003,Biology,Lab Report,4,11,5,1,Low
+T004,Chemistry,Essay,3,5,2,5,Medium
+T005,Chemistry,Quiz Preparation,3,12,5,3,Low
+T006,English,Project,1,8,8,1,Low
+T007,Chemistry,Lab Report,2,9,2,4,Low
+T008,Biology,Essay,1,14,4,5,Low
+T009,Biology,Lab Report,4,2,3,3,Medium
+T010,English,Homework,3,2,6,4,High
+T011,Economics,Lab Report,2,14,4,2,Low
+T012,Economics,Essay,1,7,7,1,Low
+T013,English,Homework,4,7,3,2,Low
+T014,History,Lab Report,5,6,2,5,High
+T015,Biology,Lab Report,1,4,7,5,Medium
+T016,English,Lab Report,5,5,8,2,Medium
+T017,ICT,Lab Report,4,2,7,1,Medium
+T018,Chemistry,Homework,4,11,7,4,Medium
+T019,English,Lab Report,2,11,5,3,Low
+T020,History,Quiz Preparation,1,2,2,1,Low
+T021,English,Lab Report,4,7,7,3,Medium
+T022,Mathematics,Lab Report,3,9,5,3,Medium
+T023,Mathematics,Quiz Preparation,4,4,5,1,Medium
+T024,Physics,Essay,5,3,3,3,High
+T025,Economics,Presentation,1,3,7,1,Medium
+T026,Chemistry,Project,5,4,4,4,Medium
+T027,ICT,Quiz Preparation,3,11,8,4,Medium
+T028,English,Essay,3,12,3,1,Low
+T029,Physics,Homework,1,1,7,4,High
+T030,Biology,Essay,4,2,8,3,High
+T031,Economics,Homework,3,10,4,3,Low
+T032,ICT,Essay,2,4,6,4,Medium
+T033,History,Essay,5,1,3,1,Medium
+T034,Physics,Presentation,2,13,4,4,Low
+T035,English,Project,4,14,3,4,Low
+T036,Physics,Lab Report,4,6,6,2,Medium
+T037,Mathematics,Homework,3,13,2,3,Low
+T038,Biology,Project,4,4,7,3,Medium
+T039,History,Project,3,12,1,4,Low
+T040,English,Lab Report,4,6,3,4,Medium
+T041,ICT,Quiz Preparation,1,9,6,1,Low
+T042,Chemistry,Essay,4,0,2,3,High
+T043,ICT,Project,4,2,6,1,Medium
+T044,ICT,Quiz Preparation,4,2,3,5,High
+T045,Economics,Quiz Preparation,3,5,5,3,Medium
+T046,Physics,Homework,1,14,4,3,Low
+T047,English,Lab Report,1,1,3,3,Medium
+T048,Biology,Essay,3,14,2,3,Low
+T049,History,Essay,5,4,8,2,Medium
+T050,History,Quiz Preparation,5,6,3,1,Medium
+T051,Physics,Lab Report,1,13,5,1,Low
+T052,Physics,Quiz Preparation,2,1,6,4,High
+T053,Mathematics,Project,2,9,6,4,Medium
+T054,Economics,Lab Report,2,1,5,5,High
+T055,Economics,Project,2,0,2,3,Medium
+T056,History,Essay,2,12,4,5,Low
+T057,Economics,Project,2,14,6,2,Low
+T058,History,Quiz Preparation,5,3,8,5,High
+T059,ICT,Homework,3,0,3,3,High
+T060,Economics,Presentation,1,13,1,4,Low
+T061,Chemistry,Presentation,2,13,1,3,Low
+T062,English,Project,1,11,3,4,Low
+T063,English,Essay,5,1,6,4,High
+T064,English,Project,1,14,8,2,Low
+T065,Mathematics,Homework,1,12,8,1,Low
+T066,Biology,Project,2,8,6,5,Medium
+T067,Mathematics,Project,2,4,8,4,Medium
+T068,Physics,Presentation,3,7,4,1,Low
+T069,Economics,Homework,1,3,3,1,Low
+T070,Mathematics,Lab Report,5,1,3,3,High
+T071,Economics,Lab Report,4,8,4,1,Low
+T072,Chemistry,Lab Report,1,10,1,4,Low
+T073,Chemistry,Homework,3,1,5,5,High
+T074,Mathematics,Essay,5,4,2,3,Medium
+T075,History,Quiz Preparation,2,14,5,2,Low
+T076,Economics,Presentation,3,0,5,3,High
+T077,ICT,Quiz Preparation,5,1,6,1,High
+T078,Biology,Essay,1,14,2,3,Low
+T079,ICT,Presentation,4,12,4,3,Low
+T080,Biology,Lab Report,5,0,6,1,High
+T081,Physics,Lab Report,2,11,4,2,Low
+T082,Physics,Quiz Preparation,4,9,8,5,High
+T083,Chemistry,Quiz Preparation,2,6,1,2,Low
+T084,Economics,Essay,1,9,8,5,Medium
+T085,Physics,Essay,3,3,3,2,Medium
+T086,Economics,Lab Report,5,12,8,1,Low
+T087,Economics,Homework,3,8,3,1,Low
+T088,ICT,Lab Report,2,4,8,1,Low
+T089,Economics,Presentation,3,2,2,2,Medium
+T090,History,Homework,3,1,5,1,Medium
+T091,Biology,Homework,1,2,7,1,Medium
+T092,English,Quiz Preparation,3,10,7,2,Medium
+T093,Chemistry,Project,5,7,6,5,High
+T094,Chemistry,Presentation,3,0,4,1,Medium
+T095,Economics,Project,2,3,6,3,Medium
+T096,Economics,Essay,2,0,1,2,Medium
+T097,Economics,Quiz Preparation,5,1,1,5,High
+T098,Mathematics,Homework,3,13,6,1,Low
+T099,Chemistry,Presentation,5,13,2,5,Medium
+T100,Physics,Lab Report,3,11,6,4,Low
